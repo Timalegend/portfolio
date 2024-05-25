@@ -306,6 +306,7 @@ nav{
 /* Работы */
 
  .works-block img{
+	 height:200px ;
      width: 490px ;
      margin: 0 20px;
      box-shadow: 7px 7px 0 #000000;
